@@ -1,0 +1,2 @@
+# TheOdinProject
+TheOdinProject yeni projem
